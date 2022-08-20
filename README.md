@@ -1,7 +1,7 @@
 # instagram-like-chrome-extension
 it likes all posts and stories in your main page
 
-#how to install
+# how to install
 
 open google-chrome
 
@@ -13,4 +13,4 @@ click 'Load Unpacked'
 
 select your folder and load the extension
 
-#you are good to go, it will like the posts and stories when you open instagram on browser :)
+# you are good to go, it will like the posts and stories when you open instagram on browser :)
