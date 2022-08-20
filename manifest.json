@@ -1,0 +1,13 @@
+{
+    "name": "instagram like main page",
+    "version": "1",
+    "manifest_version": 3,
+    "description": "instagram anasayfadaki postlari begenir",
+    "permissions": ["tabs", "http://www.instagram.com/"],
+    "content_scripts": [
+      {
+        "matches": ["https://www.instagram.com/"],
+        "js": ["./hello.js"]
+      }
+    ]
+  }
